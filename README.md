@@ -1,6 +1,11 @@
-## ![Image](https://i.hizliresim.com/391w5ni.png)
 
-
+<p align="center">
+    
+![Image](https://i.hizliresim.com/391w5ni.png)  
+    
+[![Header](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg "Header" )](https://www.linkedin.com/in/emircan/) 
+    
+</p>
 
 You can use the [editor on GitHub](https://github.com/Aerospacerr/Aerospacerr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
