@@ -2123,6 +2123,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.roundrect {
+		border-radius: 15px;
+		}
+
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
