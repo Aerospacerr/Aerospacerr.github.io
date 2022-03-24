@@ -2103,6 +2103,10 @@ input, select, textarea {
 			display: block;
 		}
 
+			.image.roundrect {
+				border-radius: 15px;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
@@ -2124,7 +2128,7 @@ input, select, textarea {
 			}
 
 		.image.roundrect {
-		border-radius: 15px;
+			border-radius: 15px;
 		}
 
 		.image.fit {
